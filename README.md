@@ -35,5 +35,5 @@ ip addr show
 [root@pi] chmod 755 /etc/init.d/radio  
 [root@pi] update-rc.d radio defaults  
   
-移除
+移除  
 [root@pi] update-rc.d -f radio remove
