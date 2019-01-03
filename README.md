@@ -29,3 +29,11 @@ ip addr show
 [root@pi] python3 -m pip list  python3 module 清單  
 [root@pi] pip3 install python-osc  安裝 python-osc  
   
+  
+# radio.py啟動自動執行
+[root@pi] cp radio.py /etc/init.d/radio     
+[root@pi] chmod 755 /etc/init.d/radio  
+[root@pi] update-rc.d radio defaults  
+  
+移除
+[root@pi] update-rc.d -f radio remove
