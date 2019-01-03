@@ -36,3 +36,9 @@ sudo pip3 install python-osc  &nbsp;&nbsp;&nbsp;安裝 python-osc
 切換到root賬戶　　          &nbsp;&nbsp;&nbsp;sudo su  
 修改rc.local文件　　        &nbsp;&nbsp;&nbsp;sudo nano /etc/rc.local  
 在exit 0 之前添加執行命令　　&nbsp;&nbsp;&nbsp;sudo python /xx/xx/xx.py  
+  
+  
+# Module  
+sudo git clone https://github.com/raspberrypi-tw/gpio-game-console.git   
+sudo git clone https://github.com/boppreh/keyboard  
+sudo git clone https://github.com/attwad/python-osc  
