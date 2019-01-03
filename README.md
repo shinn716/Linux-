@@ -3,7 +3,7 @@
 sudo su     最高權限
 cd ..		    上一層  
 cd usr/pi/	進入pi資料夾  
-ls 		      目前檔案清單  
+ls -l	      目前檔案清單  
 clear       清除cmd  
 sudo reboot 重新開機    
   
