@@ -1,6 +1,6 @@
 # Linux-
 
-### Linux		指令備註  
+### Linux		指令筆記  
 cd ..		上一層  
 cd usr/pi/	進入pi資料夾  
 ls 		目前檔案清單  
