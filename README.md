@@ -6,6 +6,8 @@ cd usr/pi/	&nbsp;&nbsp;&nbsp;進入pi資料夾
 cat xxxx.py &nbsp;&nbsp;&nbsp;觀看xxxx.py 內容  
 ls -l	      &nbsp;&nbsp;&nbsp;目前檔案清單  
 clear       &nbsp;&nbsp;&nbsp;清除cmd  
+sudo rm -d dirname/ &nbsp;&nbsp;&nbsp;移除目錄  
+sudo rm filename    &nbsp;&nbsp;&nbsp;移除檔案  
 sudo reboot &nbsp;&nbsp;&nbsp;重新開機    
   
   
