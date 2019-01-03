@@ -2,7 +2,8 @@
 # 一般常用  
 sudo su     最高權限
 cd ..		    上一層  
-cd usr/pi/	進入pi資料夾  
+cd usr/pi/	進入pi資料夾
+cat xxxx.py 觀看xxxx.py 內容
 ls -l	      目前檔案清單  
 clear       清除cmd  
 sudo reboot 重新開機    
