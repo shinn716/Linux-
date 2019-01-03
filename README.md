@@ -1,4 +1,4 @@
-# Linux - cmd note  
+# Linux Command
 # 一般常用  
 sudo ....   最高權限 (ex: sudo lsusb, sudo python hello.py...)  
 cd ..		    上一層  
