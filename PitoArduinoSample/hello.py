@@ -4,7 +4,7 @@ import serial
 from pygame.locals import *
 
 ser = serial.Serial(
-    "/dev/ttyUSB0",
+    "/dev/ttyUSB0",              # Windows "COM3",
     baudrate = 9600,
     timeout = 3.0
 )
@@ -31,17 +31,31 @@ while True:
             ser.close()
         if event.type == KEYDOWN:
             key = event.key
-            if key == pygame.K_q:   
-                ser.write('q')
+            if key == pygame.K_q:  
+                data = 'q' 
+                ser.write(data.encode())
+                time.sleep(1)
             if key == pygame.K_w:   
-                ser.write('w')
+                data = 'w' 
+                ser.write(data.encode())
+                time.sleep(1)
             if key == pygame.K_e:
-                ser.write('e')
+                data = 'e' 
+                ser.write(data.encode())
+                time.sleep(1)
             if key == pygame.K_r:
-                ser.write('r')
+                data = 'r' 
+                ser.write(data.encode())
+                time.sleep(1)
             if key == pygame.K_t:
-                ser.write('t')
+                data = 't' 
+                ser.write(data.encode())
+                time.sleep(1)
             if key == pygame.K_y:
-                ser.write('y')
+                data = 'y' 
+                ser.write(data.encode())
+                time.sleep(1)
             if key == pygame.K_u:
-                ser.write('u')
+                data = 'u' 
+                ser.write(data.encode())
+                time.sleep(1)
