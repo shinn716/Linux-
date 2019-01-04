@@ -21,29 +21,29 @@ void loop() {
       s += c;
 
       //----Servo 三種階段
-      /*if (s == "q")
+      if (s == "q")
         Spray_short();
 
         if (s == "w")
         Spray_long();
 
         if (s == "e")
-        Spray_stop();*/
+        Spray_stop();
 
       //----Servo 測試
       //      myServo1.write(StateSelect(s));              // tell servo to go to position in variable 'pos'
       //      delay(15);
 
       //----LED 測試
-      if (s == "r")
-        LightState = true;
-      else
-        LightState = false;
-      delay(5);    // 沒有延遲的話 UART 串口速度會跟不上Arduino的速度，會導致資料不完整
+      //if (s == "r")
+      //  LightState = true;
+      //else
+      //  LightState = false;
+      //delay(5);    // 沒有延遲的話 UART 串口速度會跟不上Arduino的速度，會導致資料不完整
     }
   }
 
-  Light(LightState);
+  //Light(LightState);
 }
 
 void Light(bool input)
