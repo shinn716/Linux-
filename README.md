@@ -1,4 +1,3 @@
-# Linux Command (筆記)
 # 一般常用  
 sudo su     &nbsp;&nbsp;&nbsp;最高權限  
 cd ..		    &nbsp;&nbsp;&nbsp;上一層  
