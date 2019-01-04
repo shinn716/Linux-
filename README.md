@@ -39,6 +39,10 @@ sudo pip3 install python-osc  &nbsp;&nbsp;&nbsp;安裝 python-osc
 修改rc.local文件　　        &nbsp;&nbsp;&nbsp;sudo nano /etc/rc.local  
 在exit 0 之前添加執行命令　　&nbsp;&nbsp;&nbsp;sudo python /xx/xx/xx.py  
   
+ 
+# 壓縮 解壓縮  
+http://note.drx.tw/2008/04/command.html  
+  
   
 # Module  
 sudo git clone https://github.com/raspberrypi-tw/gpio-game-console.git   
