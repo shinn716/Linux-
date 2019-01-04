@@ -52,3 +52,6 @@ sudo git clone https://github.com/attwad/python-osc
 sudo git clone https://github.com/pybluez/pybluez  
 sudo git clone https://github.com/pyinstaller/pyinstaller  
 sudo git clone https://github.com/pyserial/pyserial  
+  
+  
+curl -s https://packagecloud.io/install/repositories/headmelted/codebuilds/script.deb.sh | sudo bash
