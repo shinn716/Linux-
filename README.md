@@ -49,3 +49,4 @@ sudo git clone https://github.com/raspberrypi-tw/gpio-game-console.git
 sudo git clone https://github.com/boppreh/keyboard  
 sudo git clone https://github.com/attwad/python-osc  
 sudo git clone https://github.com/pybluez/pybluez  
+sudo git clone https://github.com/pyinstaller/pyinstaller  
