@@ -16,7 +16,7 @@ sudo python hello.py  &nbsp;&nbsp;&nbsp;編譯並執行 hello.py
   
   
 # 列出使用的 usb/port 清單  
-sudo susb            &nbsp;&nbsp;&nbsp;usb	清單  
+sudo lsusb            &nbsp;&nbsp;&nbsp;usb	清單  
 sudo ls -l /dev/tty* &nbsp;&nbsp;&nbsp;列出所有使用的port (控Arduino常用)  
   
   
