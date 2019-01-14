@@ -70,5 +70,10 @@ https://blog.csdn.net/u011489887/article/details/79099419
 https://sites.google.com/site/raspberrypidiy/pc-to-rpi/ssh  
   
   
+# Pi & OSC
+https://ianshelanskey.com/2014/08/11/raspberry-pi-and-osc-part-1/  
+https://learn.adafruit.com/raspberry-pi-open-sound-control/setting-up-your-raspberry-pi  
+  
+  
 # pygame has no member  
 https://blog.csdn.net/W_C_X/article/details/84302186  
