@@ -60,6 +60,9 @@ https://github.com/stevedesmond-ca/vscode-arm
   
 # Processing on Pi  
 https://pi.processing.org/download/  
+
+# SSH 連線  
+https://sites.google.com/site/raspberrypidiy/pc-to-rpi/ssh  
   
   
 # pygame has no member  
