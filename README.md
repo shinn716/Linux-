@@ -55,6 +55,7 @@ sudo git clone https://github.com/pyserial/pyserial
   
 # VisualCode on Pi  
 https://medium.com/@melzoghbi/install-visual-studio-code-on-raspbian-eedc566c616d
+https://github.com/stevedesmond-ca/vscode-arm  
   
   
 # pygame has no member  
