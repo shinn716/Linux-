@@ -60,7 +60,12 @@ https://github.com/stevedesmond-ca/vscode-arm
   
 # Processing on Pi  
 https://pi.processing.org/download/  
-
+  
+  
+# Pyhton 版本設定
+https://blog.csdn.net/u011489887/article/details/79099419  
+  
+  
 # SSH 連線  
 https://sites.google.com/site/raspberrypidiy/pc-to-rpi/ssh  
   
