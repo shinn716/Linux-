@@ -64,6 +64,7 @@ https://pi.processing.org/download/
   
 # Pyhton 版本設定
 https://blog.csdn.net/u011489887/article/details/79099419  
+https://sites.google.com/view/nardotime/python-%E4%B8%96%E7%95%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9/%E5%A6%82%E4%BD%95%E8%AE%8A%E6%9B%B4python%E9%A0%90%E8%A8%AD%E7%89%88%E6%9C%AC    
   
   
 # SSH 連線  
