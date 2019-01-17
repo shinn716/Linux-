@@ -78,3 +78,9 @@ https://learn.adafruit.com/raspberry-pi-open-sound-control/setting-up-your-raspb
   
 # pygame has no member  
 https://blog.csdn.net/W_C_X/article/details/84302186  
+  
+  
+# RPi 安裝  
+https://home.gamer.com.tw/creationDetail.php?sn=3908401  
+https://wwssllabcd.github.io/blog/2013/01/31/how-to-setup-raspberry-pi/  
+http://www.powenko.com/wordpress/01-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E5%92%8C%E5%9F%B7%E8%A1%8C-python-%E7%A8%8B%E5%BC%8F/    
