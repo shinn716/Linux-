@@ -38,10 +38,6 @@ sudo pip3 install python-osc  &nbsp;&nbsp;&nbsp;安裝 python-osc
 修改rc.local文件　　        &nbsp;&nbsp;&nbsp;sudo nano /etc/rc.local  
 在exit 0 之前添加執行命令　　&nbsp;&nbsp;&nbsp;sudo python /xx/xx/xx.py  
   
- 
-# 壓縮 解壓縮  
-http://note.drx.tw/2008/04/command.html  
-  
   
 # Module  
 sudo pip install xxxx or  
@@ -51,8 +47,12 @@ sudo git clone https://github.com/attwad/python-osc
 sudo git clone https://github.com/pybluez/pybluez  
 sudo git clone https://github.com/pyinstaller/pyinstaller  
 sudo git clone https://github.com/pyserial/pyserial  
-    
   
+  
+# 壓縮 解壓縮  
+ - http://note.drx.tw/2008/04/command.html  
+   
+   
 # VisualCode on Pi  
  - https://medium.com/@melzoghbi/install-visual-studio-code-on-raspbian-eedc566c616d  
  - https://github.com/stevedesmond-ca/vscode-arm  
