@@ -54,33 +54,33 @@ sudo git clone https://github.com/pyserial/pyserial
     
   
 # VisualCode on Pi  
-1. https://medium.com/@melzoghbi/install-visual-studio-code-on-raspbian-eedc566c616d  
-2. https://github.com/stevedesmond-ca/vscode-arm  
+ - https://medium.com/@melzoghbi/install-visual-studio-code-on-raspbian-eedc566c616d  
+ - https://github.com/stevedesmond-ca/vscode-arm  
   
   
 # Processing on Pi  
-1. https://pi.processing.org/download/  
+ - https://pi.processing.org/download/  
   
   
 # Pyhton 版本設定
-1. https://blog.csdn.net/u011489887/article/details/79099419  
-2. https://sites.google.com/view/nardotime/python-%E4%B8%96%E7%95%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9/%E5%A6%82%E4%BD%95%E8%AE%8A%E6%9B%B4python%E9%A0%90%E8%A8%AD%E7%89%88%E6%9C%AC    
+ - https://blog.csdn.net/u011489887/article/details/79099419  
+ - https://sites.google.com/view/nardotime/python-%E4%B8%96%E7%95%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9/%E5%A6%82%E4%BD%95%E8%AE%8A%E6%9B%B4python%E9%A0%90%E8%A8%AD%E7%89%88%E6%9C%AC    
   
   
 # SSH 連線  
-https://sites.google.com/site/raspberrypidiy/pc-to-rpi/ssh  
+ - https://sites.google.com/site/raspberrypidiy/pc-to-rpi/ssh  
   
   
 # Pi & OSC
-1. https://ianshelanskey.com/2014/08/11/raspberry-pi-and-osc-part-1/  
-2. https://learn.adafruit.com/raspberry-pi-open-sound-control/setting-up-your-raspberry-pi  
+ - https://ianshelanskey.com/2014/08/11/raspberry-pi-and-osc-part-1/  
+ - https://learn.adafruit.com/raspberry-pi-open-sound-control/setting-up-your-raspberry-pi  
   
   
 # pygame has no member  
-1. https://blog.csdn.net/W_C_X/article/details/84302186  
+ - https://blog.csdn.net/W_C_X/article/details/84302186  
   
   
 # RPi 安裝  
-1. https://home.gamer.com.tw/creationDetail.php?sn=3908401  
-2. https://wwssllabcd.github.io/blog/2013/01/31/how-to-setup-raspberry-pi/  
-3. http://www.powenko.com/wordpress/01-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E5%92%8C%E5%9F%B7%E8%A1%8C-python-%E7%A8%8B%E5%BC%8F/    
+ - https://home.gamer.com.tw/creationDetail.php?sn=3908401  
+ - https://wwssllabcd.github.io/blog/2013/01/31/how-to-setup-raspberry-pi/  
+ - http://www.powenko.com/wordpress/01-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%9D%E5%92%8C%E5%9F%B7%E8%A1%8C-python-%E7%A8%8B%E5%BC%8F/    
